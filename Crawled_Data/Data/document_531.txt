@@ -1,0 +1,198 @@
+NIELSEN RATINGS FOR 1999-2000 - SFGate56 captures 03 Feb 2014 - 30 Jan 2022 Jan FEB Jan 03 2013 2014 2015 success fail About this capture COLLECTED BY Organization: Internet Archive These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved. Then the Internet Archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors. The goal is to fix all broken links on the web. Crawls of supported "No More 404" sites. Collection: Wikipedia Near Real Time (from IRC) This is a collection of web page captures from links added to, or changed on, Wikipedia pages. The idea is to bring a reliability to Wikipedia outlinks so that if the pages referenced by Wikipedia articles are changed, or go away, a reader can permanently find what was originally referred to. This is part of the Internet Archive's attempt to rid the web of broken links. TIMESTAMPS The Wayback Machine - https://web.archive.org/web/20140203214816/http://www.sfgate.com/entertainment/article/NIELSEN-RATINGS-FOR-1999-2000-2776698.php (skip this header) Monday Feb 03, 2014 1:48 PM PT ° (change) Today / / Traffic (change your city) San Francisco Santa Rosa Napa Concord Oakland Livermore Hayward San Carlos Palo Alto San Jose Fairfield Mountain View Monterey sfgate.com Businesses Home News Sports Business Entertainment Food Living Travel Columns Index ▼ Cars Jobs Real Estate Find&Save; Close [X] Quick links to other pages on this site | Still can't find it? see Site Index Don't Miss: Florida medical pot vote Opinion: The Jahi McMath case The Mission Panaderia Punxsutawney Phil's prediction Drought info Bay Area & State Nation World Politics Crime Tech Obituaries Opinion Green Science CA Health Health Education Weird 49ers Raiders Giants A's Warriors Sharks 49ers Fandom NFL MLB NBA NHL College Preps Golf Outdoors Other TV Tix Shop Technology Markets Personal Finance Real Estate Mortgage Rates Home Guides Public Notices Press Releases Sponsored Content Movies Music & Nightlife Performance Art Events Books TV Click City Horoscope Comics Games Things To Do Restaurants Recipes Wine Top 100 Restaurants Top 100 Wines Bargain Bites Reservations Inside Scoop SF Healthy Eating Home & Garden Style Parties Lust Ski LGBT Houzz Moms Pets Sponsored Weekend Getaways SF Guide Neighborhoods Wine Country Monterey-Carmel Tahoe Hawaii Mexico Vegas Dealers Click and Clack Car Blog My Ride Car Galleries Sell Your Car Career Advice Be Your Own Boss Job Events Monster Match Advertise Salary Wizard New Homes Open Homes Luxury Rentals Mortgage Rates Commercial Land Place an ad Home Guides Homesales Foreclosures Classifieds Daily Deals « Back to Article NIELSEN RATINGS FOR 1999-2000 Published 4:00 am, Friday, May 26, 2000 Tweet 0 Larger | Smaller Printable Version Email This Georgia (default) Verdana Times New Roman ArialFont Page 1 of 1 Here are Nielsen Media Research's cumulative household ratings for network programs during the 1999-2000 television season. The first number is the show's average rating, the second is its average percentage share of the viewing audience. Each ratings point represents about 1 million households in the United States. For unexplained reasons, a few series that aired during the season are missing from the final Nielsen list. They include "Wonderland," "The Mike O'Malley Show," "Ryan Caulfield: Year One" and "Mission Hill." Nielsen Media Research couldn't be reached late yesterday. Rank    Show                               Net. Rating  Share	
+  1  Who Wants to Be a Millionaire (Tue.)  ABC   18.7    29	
+  2  Who Wants to Be a Millionaire (Thu.)  ABC   17.5    26	
+  3  Who Wants to Be a Millionaire (Sun.)  ABC   17.1    25	
+  4  ER                                    NBC   16.9    28	
+  5  Friends                               NBC   14.0    23	
+  6  NFL Monday Night Football             ABC   13.7    23	
+  7  Frasier                               NBC   13.6    21	
+  8  Frasier (9:30 p.m.)                   NBC   12.4    19	
+  9  60 Minutes                            CBS   12.0    20	
+ 10  The Practice                          ABC   11.8    19	
+ 11  Touched by an Angel                   CBS   11.6    18	
+ 12  Law & Order                           NBC   11.5    19	
+ 13  Everybody Loves Raymond               CBS   11.4    17	
+ 13  NFL Monday Showcase                   ABC   11.4    18	
+ 15  Jesse                                 NBC   11.3    18	
+ 16  CBS Sunday Movie                      CBS   10.8    17	
+ 16  Daddio                                NBC   10.8    18	
+ 18  NYPD Blue                             ABC   10.7    18	
+ 18  Stark Raving Mad                      NBC   10.7    17	
+ 20  Dharma & Greg                         ABC   10.5    16	
+ 21  Becker                                CBS   10.4    16	
+ 22  Judging Amy                           CBS   10.2    17	
+ 23  JAG                                   CBS    9.7    15	
+ 24  The Drew Carey Show                   ABC    9.5    15	
+ 25  Providence                            NBC    9.4    17	
+ 26  60 Minutes II                         CBS    9.3    14	
+ 27  ABC Monday Night Movie                ABC    9.1    14	
+ 27  Spin City                             ABC    9.1    14	
+ 27  The West Wing                         NBC    9.1    14	
+ 30  Family Law                            CBS    9.0    15	
+ 31  Dateline (Fri.)                       NBC    8.9    16	
+ 31  Malcolm in the Middle                 Fox    8.9    14	
+ 33  CBS Wednesday Movie                   CBS    8.8    14	
+ 33  Frasier (9:30 Tue.)                   NBC    8.8    14	
+ 33  Law & Order: Special Victims Unit     NBC    8.8    15	
+ 36  20/20 (Fri.)                          ABC    8.7    16	
+ 36  20/20 (Wed.)                          ABC    8.7    15	
+ 36  Diagnosis Murder                      CBS    8.7    14	
+ 39  Ally McBeal                           Fox    8.5    13	
+ 39  King of Queens                        CBS    8.5    14	
+ 41  Dateline (Tue.)                       NBC    8.4    14	
+ 41  Will & Grace                          NBC    8.4    13	
+ 43  20/20 Downtown                        ABC    8.3    14	
+ 44  Battery Park                          NBC    8.2    13	
+ 44  The Simpsons                          Fox    8.2    13	
+ 46  Dateline (8 p.m. Wed.)                NBC    8.1    14	
+ 46  Once and Again                        ABC    8.1    13	
+ 48  Walker, Texas Ranger                  CBS    8.0    15	
+ 49  Dateline (Mon.)                       NBC    7.9    13	
+ 49  Just Shoot Me (9:30 p.m.)             NBC    7.9    12	
+ 49  Ladies Man                            CBS    7.9    12	
+ 49  The X-Files                           Fox    7.9    12	
+ 53  20/20 (Mon.)                          ABC    7.8    13	
+ 53  Sports Night                          ABC    7.8    12	
+ 53  Twenty One                            NBC    7.8    12	
+ 56  Third Watch                           NBC    7.7    12	
+ 57  Greed 2                               Fox    7.5    12	
+ 57  Nash Bridges                          CBS    7.5    13	
+ 59  Just Shoot Me                         NBC    7.4    12	
+ 59  NBC Sunday Night Movie                NBC    7.4    11	
+ 59  Talk to Me                            ABC    7.4    12	
+ 59  The Wonderful World of Disney         ABC    7.4    12	
+ 63  Law & Order (Fri.)                    NBC    7.3    13	
+ 64  Norm                                  ABC    7.2    11	
+ 65  Two Guys and a Girl                   ABC    7.0    12	
+ 66  Chicago Hope                          CBS    6.9    11	
+ 66  Grapevine                             CBS    6.9    11	
+ 66  Oh Grow Up                            ABC    6.9    11	
+ 69  Snoops                                ABC    6.8    10	
+ 69  Whose Line Is It Anyway (8:30 p.m.)   ABC    6.8    11	
+ 71  Dateline (7 p.m. Sun.)                NBC    6.7    11	
+ 72  48 Hours                              CBS    6.6    11	
+ 73  Martial Law                           CBS    6.5    12	
+ 73  Sabrina the Teenage Witch             ABC    6.5    11	
+ 75  It's Like, You Know                   ABC    6.4    10	
+ 76  Kids Say the Darndest Things          CBS    6.3    12	
+ 76  Now and Again                         CBS    6.3    11	
+ 78  City of Angels                        CBS    6.2    10	
+ 79  ABC Saturday Night Movie              ABC    6.1    11	
+ 80  3rd Rock From the Sun                 NBC    6.0    10	
+ 80  Titus                                 Fox    6.0     9	
+ 82  Beverly Hills, 90210                  Fox    5.9    10	
+ 82  Then Came You                         ABC    5.9    10	
+ 82  Whose Line Is It Anyway?              ABC    5.9    10	
+ 82  Winning Lines                         CBS    5.9    11	
+ 86  America's Most Wanted                 Fox    5.8    11	
+ 86  Boy Meets World                       ABC    5.8    11	
+ 86  Cosby                                 CBS    5.8    10	
+ 86  Greed                                 Fox    5.8    10	
+ 86  The Pretender                         NBC    5.8    11	
+ 86  That '70s Show                        Fox    5.8     9	
+ 86  Veronica's Closet                     NBC    5.8     9	
+ 93  Cops 2                                Fox    5.7    11	
+ 93  Early Edition                         CBS    5.7    11	
+ 93  Love & Money                          CBS    5.7    10	
+ 93  Work With Me                          CBS    5.7     9	
+ 93  World's Most Amazing Videos           NBC    5.7    10	
+ 98  Odd Man Out                           ABC    5.6    10	
+ 98  Profiler                              NBC    5.6    10	
+100  The Hughleys                          ABC    5.5    10	
+101  Candid Camera                         CBS    5.4     9	
+101  Futurama                              Fox    5.4     9	
+103  Frasier (8:30 p.m.)                   NBC    5.3     8	
+103  King of the Hill                      Fox    5.3     9	
+103  Making the Band                       ABC    5.3    10	
+106  The Others                            NBC    5.2    10	
+107  Dateline (8 p.m. Sun.)                NBC    5.1     8	
+108  Cops                                  Fox    5.0    10	
+108  World's Wildest Police Videos         Fox    5.0     9	
+110  Cold Feet                             NBC    4.9     9	
+110  Suddenly Susan                        NBC    4.9     8	
+110  That '70s Show (2)                    Fox    4.9     8	
+110  Will & Grace (8:30)                   NBC    4.9     8	
+114  Fox Thursday Night Movie              Fox    4.8     7	
+115  Freaks & Geeks                        NBC    4.7     8	
+115  WWF Smackdown!                        UPN    4.7     7	
+117  Ally                                  Fox    4.5     7	
+117  Party of Five                         Fox    4.5     7	
+119  7th Heaven                            WB     4.4     7	
+120  Family Guy                            Fox    4.2     7	
+120  God, the Devil and Bob                NBC    4.2     7	
+122  Time of Your Life                     Fox    4.1     6	
+123  Get Real                              Fox    3.8     6	
+123  Wasteland                             ABC    3.8     6	
+125  Harsh Realm                           Fox    3.6     6	
+126  Charmed                               WB     3.4     5	
+126  Star Trek: Voyager                    UPN    3.4     5	
+128  Action                                Fox    3.3     5	
+129  Angel                                 WB     3.2     5	
+129  Buffy, the Vampire Slayer             WB     3.2     5	
+131  Dawson's Creek                        WB     3.0     5	
+131  Safe Harbor                           WB     3.0     4	
+133  The Parkers                           UPN    2.7     4	
+134  Roswell                               WB     2.6     4	
+134  7th Heaven (9 p.m.)                   WB     2.6     4	
+136  Moesha                                UPN    2.4     4	
+137  Grown Ups                             UPN    2.3     3	
+138  7 Days                                UPN    2.2     4	
+138  Felicity                              WB     2.2     3	
+138  Moesha (Tue.)                         UPN    2.2     4	
+138  Popular                               WB     2.2     4	
+138  The Steve Harvey Show                 WB     2.2     4	
+143  Malcolm & Eddie                       UPN    2.1     3	
+144  For Your Love                         WB     2.0     4	
+144  The Jamie Foxx Show                   WB     2.0     4	
+144  The Parkers (Tue.)                    UPN    2.0     4	
+144  The Steve Harvey Show (1)             WB     2.0     4	
+149  7th Heaven: Beginnings                WB     1.9     3	
+149  Charmed (Sun.)                        WB     1.9     3	
+149  Jack & Jill                           WB     1.9     3	
+152  Blockbuster Cinema                    UPN    1.8     3	
+152  Buffy (Mon.)                          WB     1.8     3	
+152  Popular (Mon.)                        WB     1.8     3	
+155  I Dare You!                           UPN    1.7     3	
+155  Shasta McNasty                        UPN    1.7     3	
+155  The Strip                             UPN    1.7     3	
+158  Brutally Normal                       WB     1.6     2	
+158  Safe Harbor (Sun.)                    WB     1.6     3	
+160  The Beat                              UPN    1.5     2	
+160  D.C.                                  WB     1.5     2	
+160  Jack & Jill (Mon.)                    WB     1.5     2	
+163  Movie Stars                           WB     1.4     2	
+163  Secret Agent Man                      UPN    1.4     2	
+163  Shasta                                UPN    1.4     2	
+163  Zoe                                   WB     1.4     2	
+167  Dilbert                               UPN    1.3     2	
+168  Diagnosis Murder (Mon.)               Pax    1.2     2	
+168  Diagnosis Murder (Thu.)               Pax    1.2     2	
+168  Diagnosis Murder (Tue.)               Pax    1.2     2	
+171  Diagnosis Murder (Wed.)               Pax    1.1     2	
+171  Touched by an Angel (Tue.)            Pax    1.1     2	
+173  Diagnosis Murder (Fri.)               Pax    1.0     2	
+173  Touched by an Angel (Wed.)            Pax    1.0     2	
+175  Touched by an Angel (Fri.)            Pax    0.9     2	
+175  Touched by an Angel (Mon.)            Pax    0.9     1	
+175  Touched by an Angel (Thu.)            Pax    0.9     1	
+178  It's a Miracle                        Pax    0.8     1	
+178  Pax Sunday Mystery Movie              Pax    0.8     1	
+178  Twenty-One                            Pax    0.8     1	
+181  It's a Miracle (Fri.)                 Pax    0.7     1	
+182  Chicken Soup for the Soul             Pax    0.6     1	
+182  Destination Stardom                   Pax    0.6     1	
+182  It's a Miracle (enc.)                 Pax    0.6     1	
+182  Little Men                            Pax    0.6     1	
+182  Touched by an Angel (weekend)         Pax    0.6     1	
+182  Twice in a Lifetime                   Pax    0.6     1	
+188  Hope Island                           Pax    0.5     1	
+188  Jack Hanna: Totally Wild              Pax    0.5     1	
+188  Pax Three-Hanky Movie                 Pax    0.5     1	
+191  Chicken Soup for the Soul (enc.)      Pax    0.4     1	
+191  Flipper: The New Adventures           Pax    0.4     1	
+191  Hope Island (enc.)                    Pax    0.4     1	
+191  Little Men (enc.)                     Pax    0.4     1	
+191  Twice in a Lifetime (enc.)            Pax    0.4     1	
+196  Destination Stardom (enc.)            Pax    0.3     1	
+
+ Printable Version Email This 0 Tweet Need to Register? X Remember Me Forgot your password? Inside SFGate Legion of Honor restoring Salon Doré room 'Private' Boitano has quiet, powerful message Giants FanFest hits it out of the park Successful millennial gives away everything How Roger Ailes built Fox News Nevius: Will Google react to bus protests? East Bay's rare amphibians Outdated day care policies leave parents in dark Puppy rescued from trash finds a home Bauer: Week's favorite dishes First lady to S.F. Dems: Get out of town Lanterns, lights and explosions in Taiwan Entertainment Photos Howard Stern's birthday bash Hasty Pudding 2014 Woman of the Year Award Parade Miley Cyrus: MTV Unplugged - Roaming Show Super Bowl 2014: Where to watch, plus wings! Bay Area events, Feb. 2 California St. lobbies Stand Up to Cancer Event Behind the scenes at Dr. Strangelove 'The Night That Changed America: A Grammys Salute to the Beatles' Gallery of the Underrated 2014 Grammy Awards 2014: After parties Muni mural Grammy Awards 2014: Audience pix Grammy Awards 2014: Red carpet Get a sneak peek at 2014 Super Bowl commercials Get a sneak peek at 2014 Super Bowl commercials ELLE's Women in Television Celebration 2014 Zodiac Murder Sites S.F. Ballet's 81st season opening gala Merk 30 classic compliments from movies and TV Guide to SF Sketchfest 2014 Screen Actors Guild Awards red carpet Tenderloin photos Critics' Choice Awards 2014 2014 UNICEF Ball 50th anniversary of the Sports Illustrated Swimsuit Issue party HBO's 'Looking' premiere at S.F.'s Castro Theatre Golden Globes 2014: Red carpet 60 years ago in S.F.: Joe DiMaggio marries Marilyn Monroe Sean Penn & Friends Help Haiti Home Gala Golden Globes 2014: After-party photos 10 terrible songs about San Francisco (and 10 good ones) Morgan Julie Gayet W Magazine's 'Best Performances' & Golden Globes party Audi celebrates Golden Globes weekend 2014 Celebrities who married young Pacific Avenue lobbies Frances Thompson school photos Most Read Two stabbed along Embarcadero in S.F. Private S.F. museum a real fun house Sedate Super Bowl ads upstaged by a coat Was this the worst Super Bowl ever? Light rain later this week - storm for weekend? Napa woman, boyfriend arrested in slaying of daughter, 3 These Were The 5 Best Ads Of The 2014 Super Bowl From our homepage Audi Super ads' few breakaways Lots of sentiment, a few laughs, all upstaged by Joe Namath's coat. Watch: 5 best Super Bowl ads The Chronicle Inside a bizarre SF museum Look around this mansion where an eccentric's collected about $50M worth of very strange stuff. AFP Amazing ordeal or fish story? Man says he lived on turtles, birds for 13 months adrift at sea. But he doesn't seem emaciated. Home News Sports Business Entertainment Food Living Travel Shopping Find Bay Area Jobs Real Estate Cars Site Index Company Info: Contact Us SFGate staff Hearst Privacy Policy Your California Privacy Rights Terms & Conditions Work for Us Chron in Education Events & Promotions Submissions Advertising Services: Advertise with us Place a Classified About Our Ads Public Notices Local Businesses: Business Directory Reader Services: Subscribe Now Manage Your Subscription iPad E-Edition Mobile Site RSS Newsletters Feedback FAQ Corrections Get Us © 2014 Hearst Communications, Inc.
